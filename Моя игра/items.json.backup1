@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "id": "ITEM_0001",
+      "name": "Magnit scanner",
+      "description": "",
+      "tags": ["weapon"],
+      "properties": {},
+      "stackable": false,
+      "equippable": true,
+      "effects": [{"amount":1,"stat":"attack","type":"stat_boost"}],
+      "weapon": true,
+      "weapon_type": "ranged",
+      "weapon_projectile_speed": 75,
+      "weapon_min_range": 2,
+      "weapon_max_range": 20,
+      "object": "Magnit scanner",
+      "view_model_object": "Magnit scanner",
+      "usable": false
+    }
+  ],
+  "localized": false
+}
