@@ -1,0 +1,2 @@
+set_entity_script(entity["lever"], "lever");
+remove_zone("Lever");

@@ -1,0 +1,8 @@
+set_zone_script("Ending Area", "", CHARACTER_ENTER);
+hide_widget("crosshair", 0.2);
+wait(0.2);
+show_widget("ending", 1);
+wait(5);
+hide_widget("ending", 1);
+wait(0.8);
+show_widget("crosshair", 0.2);

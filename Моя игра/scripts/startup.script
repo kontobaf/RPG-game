@@ -1,0 +1,4 @@
+hide_toolbar();
+show_widget("crosshair");
+show_widget("status");
+load_map("room_01", coord[1, 1, 0], NORTH);

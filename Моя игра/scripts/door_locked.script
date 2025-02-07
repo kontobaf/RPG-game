@@ -1,0 +1,2 @@
+play_sound("door_locked.wav");
+log_message("You need a gold key to unlock this door.");

@@ -1,0 +1,7 @@
+set_entity_script(self, "");
+log_message("Turrets have been disabled.");
+play_sound("lever.wav");
+play_animation(self, "on");
+disable_turret("turret_01");
+disable_turret("turret_02");
+disable_turret("turret_03");
